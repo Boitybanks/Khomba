@@ -26,6 +26,49 @@ Khomba brings a digital connection to the minibus taxi journey, building around 
 
 From the early morning commute to the journey home, Khomba’s vision is to make affordable everyday transport easier to access for underserved communities, while supporting the drivers who keep them moving.
 
+## Our mission
+
+Make South Africa’s everyday taxi journey safer, simpler and more connected, with affordable, convenient transport easier to access for underserved communities.
+
+## Our vision
+
+A South Africa where finding your next taxi feels as natural as reaching for your phone. Where commuters have more confidence in their journey, drivers can connect with demand, and technology strengthens the taxi community.
+
+## The difference we are working towards
+
+- **For commuters:** less uncertainty about finding a taxi, clearer arrival information and a more convenient way to arrange a pickup.
+- **For drivers:** more opportunities to connect with passengers, especially when demand is harder to find.
+- **For taxi associations:** a collaborative path to bringing everyday taxi services into a more connected transport ecosystem.
+- **For communities:** better access to the journeys that connect people to work, education, family and opportunity.
+
+These are the outcomes guiding our development and pilot; they are not claims of measured impact or guaranteed availability.
+
+## The feeling behind Khomba
+
+The early morning hoot. A snack bought before the trip. Children heading to school. A familiar greeting on the way to work. South Africa’s taxi culture is full of movement, enterprise and human connection.
+
+Khomba carries that warmth into a digital experience: local, welcoming and built around the people making these journeys every day.
+
+**Chomi, sihambe. Friend, let’s go.**
+
+## Our approach
+
+We build around everyday journeys, listen to commuters and drivers, and improve through practical testing. We value dignity, accessibility and responsible handling of people’s information. Our ambition is to earn trust through an experience that works in the real world.
+
+## Frequently asked questions
+
+**Is Khomba available everywhere yet?**  
+Khomba is being developed for pilot use. Visit the official website for updates on launch and route availability.
+
+**Who is it for?**  
+Commuters who use minibus taxis and the drivers who serve them. We also welcome conversations with taxi associations and potential pilot partners.
+
+**Can I see the application source code here?**  
+This repository shares the product story. The application and proprietary implementation remain private.
+
+**How can I get involved?**  
+Visit [khomba.co.za](https://khomba.co.za) or [start a public discussion](https://github.com/Boitybanks/Khomba/discussions) about a general enquiry, pilot or partnership.
+
 ## Status
 
 **Under active development for pilot use.** This showcase describes the product vision and intended experience. Feature availability, route coverage and launch timing will be communicated through the official website.
